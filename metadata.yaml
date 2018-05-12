@@ -1,4 +1,8 @@
 _repo: Napoleon-s-Appeal-to-the-British-nation-on-his-Treatment-at-Saint-Helena_50118
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50118-h/images/cover.jpg
 creator:
   authors:
   - agent_name: I, Napoleon
@@ -14,6 +18,8 @@ creator:
     gutenberg_agent_id: '45712'
     url: http://www.gutenberg.org/2009/agents/45712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50118#Napoleon-s-Appeal-to-the-British-nation-on-his-Treatment-at-Saint-Helena
 gutenberg_issued: '2015-10-03'
 gutenberg_type: Text
 identifiers:
